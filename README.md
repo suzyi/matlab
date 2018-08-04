@@ -1,4 +1,4 @@
-# Optimization framework in matlab
+# Optimization frameworks in matlab
 ## 1 - CVX
 ### 1 - 1 - What kind of problems can cvx solve?
 [Before using cvx tool, read this first!](http://ask.cvxr.com/t/why-isnt-cvx-accepting-my-model-read-this-first/570)
