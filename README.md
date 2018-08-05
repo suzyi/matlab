@@ -9,7 +9,5 @@ CVX is specifically designed for certain kinds of convex optimization problems, 
 ### 1 - 2 - The procedures of using CVX.
 First, check the convexity of your model. Second, express your model in terms of these [functions](http://web.cvxr.com/cvx/doc/funcref.html) and avoid [DCP errors](http://web.cvxr.com/cvx/doc/dcp.html).
 See [quick start](http://cvxr.com/cvx/doc/quickstart.html) for more information.
-## 2 - CVXOPT
-[CVXOPT homepage](http://cvxopt.org/)
-## 3 - YALMIP
+## 2 - YALMIP
 [YALMIP](https://yalmip.github.io/) is a modeling framework in MATLAB that supports both convex and non-convex problems, and it connects to a wider variety of solvers than CVX. So that might be worth a try if you want to stay in MATLAB. And of course, MATLAB has an optimization toolbox of its own. 
